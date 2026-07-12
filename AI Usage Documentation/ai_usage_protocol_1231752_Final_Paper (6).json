@@ -1,0 +1,42 @@
+{
+  "protocol_version": "0.2",
+  "student_id": "1231752",
+  "course": "Real Time Systems",
+  "milestone": "Final Paper",
+  "topic": "WCET Analysis Methods",
+  "entries": [
+    {
+      "id": "e-cf4764da",
+      "timestamp": "2026-07-12T06:06:46+00:00",
+      "parent_id": null,
+      "objective": "To create a simple Python example and a table for the IPET part",
+      "ai_tool": {
+        "name": "ChatGPT",
+        "model": "5.5"
+      },
+      "prompt": "I asked the AI to generate a simple Python code for the IPET example and a table showing the timing costs and selected blocks",
+      "ai_output_summary": "It generated a Python example for the simplified ABS control flow graph and a table showing which blocks were selected.",
+      "verification": {
+        "actions": [
+          "I checked the timing values, constraints and final WCET calculation manually. I also checked that the selected path matched the ABS example. I ran the code on my pc and it worked."
+        ],
+        "level": "multi-source-validation"
+      },
+      "evaluation": {
+        "status": "accepted",
+        "issues": [
+          "The timing values were assumed and the code was only a simple example, not a complete WCET analysis tool but that is not the fault of AI"
+        ],
+        "usefulness": "high"
+      },
+      "integration": {
+        "used_in_work": true,
+        "section": "",
+        "usage_type": "code-generation",
+        "direct_text_reused": true
+      },
+      "reflection": "The code and table helped me understand and explain how IPET selects the path with the highest timing cost"
+    }
+  ],
+  "exported_at": "2026-07-12T06:06:46+00:00"
+}
