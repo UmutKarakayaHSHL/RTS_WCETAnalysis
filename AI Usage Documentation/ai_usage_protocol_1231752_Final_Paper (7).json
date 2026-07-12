@@ -1,0 +1,42 @@
+{
+  "protocol_version": "0.2",
+  "student_id": "1231752",
+  "course": "Real Time Systems",
+  "milestone": "Final Paper",
+  "topic": "WCET Analysis Methods",
+  "entries": [
+    {
+      "id": "e-6d4aa435",
+      "timestamp": "2026-07-12T06:12:10+00:00",
+      "parent_id": null,
+      "objective": "To convert equations, Python code and references into LaTeX",
+      "ai_tool": {
+        "name": "ChatGPT",
+        "model": "5.5"
+      },
+      "prompt": "I asked the AI to convert the IPET equations, Python code, tables and IEEE references into LaTeX",
+      "ai_output_summary": "It provided LaTeX conversion for equations, code listings, tables and references.",
+      "verification": {
+        "actions": [
+          "I compiled the LaTeX in Overleaf and it was working fine"
+        ],
+        "level": "empirical-check"
+      },
+      "evaluation": {
+        "status": "accepted",
+        "issues": [
+          "none"
+        ],
+        "usefulness": "high"
+      },
+      "integration": {
+        "used_in_work": true,
+        "section": "",
+        "usage_type": "other",
+        "direct_text_reused": false
+      },
+      "reflection": "Help of AI reduced formatting work and helped me place the technical content correctly in the IEEE template. It saved me a lot of time and effort."
+    }
+  ],
+  "exported_at": "2026-07-12T06:12:10+00:00"
+}
