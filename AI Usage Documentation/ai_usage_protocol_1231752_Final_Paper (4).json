@@ -1,0 +1,42 @@
+{
+  "protocol_version": "0.2",
+  "student_id": "1231752",
+  "course": "Real Time Systems",
+  "milestone": "Final Paper",
+  "topic": "WCET Analysis Methods",
+  "entries": [
+    {
+      "id": "e-d22f2f04",
+      "timestamp": "2026-07-12T05:48:15+00:00",
+      "parent_id": null,
+      "objective": "To make my English clearer and fix grammar mistakes, translating my language to a more academic way",
+      "ai_tool": {
+        "name": "ChatGPT",
+        "model": "5.5"
+      },
+      "prompt": "I asked the AI to improve my sentences and make them sound more suitable for an academic paper without changing what I meant",
+      "ai_output_summary": "AI corrected grammar and suggested clearer sentences for the WCET explanations",
+      "verification": {
+        "actions": [
+          "I compared the new sentences with my original meaning and changed parts that sounded too formal or unnatural"
+        ],
+        "level": "plausibility-check"
+      },
+      "evaluation": {
+        "status": "partially-accepted",
+        "issues": [
+          "Some sentences sounded too formal and unnecessarily complex"
+        ],
+        "usefulness": "medium"
+      },
+      "integration": {
+        "used_in_work": true,
+        "section": "",
+        "usage_type": "text-revision",
+        "direct_text_reused": true
+      },
+      "reflection": "AI helped make the text clear but I still changed some parts to match my own writing style, It was useful because I never wrote a 5 page long scientific paper before and I am not very good at scientific/academic level English"
+    }
+  ],
+  "exported_at": "2026-07-12T05:48:15+00:00"
+}
