@@ -1,0 +1,42 @@
+{
+  "protocol_version": "0.2",
+  "student_id": "1231752",
+  "course": "Real Time Systems",
+  "milestone": "Final Paper",
+  "topic": "WCET Analysis Methods",
+  "entries": [
+    {
+      "id": "e-25d64961",
+      "timestamp": "2026-07-12T05:58:00+00:00",
+      "parent_id": null,
+      "objective": "To get draft text for some parts of the paper and use it while writing the final version",
+      "ai_tool": {
+        "name": "ChatGPT",
+        "model": "5.5"
+      },
+      "prompt": "I asked the AI to write draft paragraphs for sections",
+      "ai_output_summary": "It generated explanations and draft paragraphs about the topics and subtopics",
+      "verification": {
+        "actions": [
+          "I checked the technical claims against the original papers and corrected/rewrote the drafts before using them, confirmed the informations with the references I have."
+        ],
+        "level": "primary-source-check"
+      },
+      "evaluation": {
+        "status": "revised",
+        "issues": [
+          "Some paragraphs were too long, repetitive or too formal. I also had to change some explanations so they matched the references and my own writing style."
+        ],
+        "usefulness": "high"
+      },
+      "integration": {
+        "used_in_work": true,
+        "section": "",
+        "usage_type": "other",
+        "direct_text_reused": true
+      },
+      "reflection": "The drafts helped me begin with difficult sections because the most difficult part was beggining. they required source checking and manual editing before submission."
+    }
+  ],
+  "exported_at": "2026-07-12T05:58:00+00:00"
+}
